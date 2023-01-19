@@ -1,0 +1,20 @@
+#card {
+    border: 1px solid gray;  
+    width: 320px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+div[class^="card-"] {
+    border: 1px solid gray;
+    padding: 5%;
+}
+
+.card-items p{
+    border-bottom: 1px solid gray;
+    border: 100%;
+    
+}
