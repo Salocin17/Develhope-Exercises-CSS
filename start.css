@@ -1,0 +1,16 @@
+.flex_container {
+    display: flex;
+}
+
+#orange {
+    flex: 2;
+    order: 3;
+}
+
+#green {
+    order: 3;
+}
+
+#blue {
+    order: 4;
+}
